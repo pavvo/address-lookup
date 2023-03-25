@@ -23,3 +23,9 @@ yarn dev --host
 ```
 
 Open [http://localhost:5173](http://localhost:5173) to view the app in the browser.
+
+## Working example
+
+A working example of the app can be found at [https://address-lookup-jade.vercel.app/](https://address-lookup-jade.vercel.app/)
+
+For the best experience, please allow access to your location, it is not being shared with anyone.
